@@ -1,0 +1,1 @@
+run tests: mvn test -Dtest=ExerciseTest
